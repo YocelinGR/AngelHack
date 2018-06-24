@@ -111,5 +111,23 @@ La plataforma brinda un medio para acceder a bienes y servicios pese a no tener 
 ![Sketch 1](/Pictures/Sketch1.jpg)
 Format: ![Alt Imagen del 1er Sketch]
 
-![Sketch 1](/Pictures/Sketch2.jpg)
+## Sketch 2
+
+![Sketch 2](/Pictures/Sketch2.jpg)
 Format: ![Alt Imagen del 2nd Sketch]
+
+## Sketch 3
+
+![Sketch 3](/Pictures/Sketch3.jpg)
+Format: ![Alt Imagen del 3th Sketch]
+
+## Planning UX
+![Planning Ux](/Pictures/PanningUX.jpg)
+Format: ![Alt Imagen Planning Ux]
+
+## Planning Development
+![Planning Development](/Pictures/PanningDevelopment.jpg)
+Format: ![Alt Imagen Planning Development]
+
+    code (Repositorio)
+[links](https://github.com/YocelinGR/AngelHack)
