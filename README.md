@@ -110,3 +110,6 @@ La plataforma brinda un medio para acceder a bienes y servicios pese a no tener 
 
 ![Sketch 1](/Pictures/Sketch1.jpg)
 Format: ![Alt Imagen del 1er Sketch]
+
+![Sketch 1](/Pictures/Sketch2.jpg)
+Format: ![Alt Imagen del 2nd Sketch]
