@@ -122,11 +122,11 @@ Format: ![Alt Imagen del 2nd Sketch]
 Format: ![Alt Imagen del 3th Sketch]
 
 ## Planning UX
-![Planning Ux](/Pictures/PanningUX.jpg)
+![Planning Ux](/Pictures/PlanningUX.jpg)
 Format: ![Alt Imagen Planning Ux]
 
 ## Planning Development
-![Planning Development](/Pictures/PanningDevelopment.jpg)
+![Planning Development](/Pictures/PlanningDevelopment.jpg)
 Format: ![Alt Imagen Planning Development]
 
     code (Repositorio)
